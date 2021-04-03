@@ -32,8 +32,7 @@
 </ul>
 </li>
 <li></li>
-<ul></ul>
-
+</ul>
 <li></li>
 <li></li>
 <li></li>
