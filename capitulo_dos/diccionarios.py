@@ -40,3 +40,8 @@ print("cree un diccionario por comprension atraves de un for y una tupla:{}".for
 
 new_dicc = {k: 1 for k in ['a', 'b', 'c']}
 print("cree un diccionario por compresion declarando un mismo valor para todos:{}".format(new_dicc))
+
+# Ordenamiento. Para el ordenamiento de diccionarios solo existe la funcion sorted()
+print(sorted(dicc_comp, reverse=True))
+
+print(dicc_comp)
