@@ -4,7 +4,7 @@
 
 <ul>
 <li></li>
-<li>Principales sentencias de control<li>if,else y elif</li><li>for y while</li><li>pass y with</li></li>
+<ul>Principales sentencias de control<li>if,else y elif</li><li>for y while</li><li>pass y with</li></ul>
 <li></li>
 <li></li>
 <li></li>
