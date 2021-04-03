@@ -33,11 +33,10 @@
 </li>
 <li>Paquetes</li>
 </ul>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
+<li>Comentarios</li>
+<li>Excepciones</li>
+<li>Capturando excepciones</li>
+<li>Lanzando excepciones</li>
+<li>Excepciones definidas por el usuario</li>
+<li>informacion sobre la excepcion</li>
 </ul>
