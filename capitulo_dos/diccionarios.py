@@ -19,6 +19,9 @@ diccionario['d'] = "hola"                   # si la palabra clave no existe crea
                                             # elemento
 print("si una palabra clave no esta en el diccionario la creara al final de esta:{}",format(diccionario))
 
+del(diccionario['a'])
+print("la funcion del() sirve para eliminar un elemento del diccionario atraves de su palabra clave: {}".format(diccionario))
+
 # metodos y funciones para iterar sobre un diccionario
 
 for k in diccionario.keys():
@@ -29,3 +32,11 @@ for x in diccionario.values():
 
 for k, x in diccionario.items():
     print("clave:{}, value:{}".format(k, x))
+
+# Crear diccionarios por comprension
+
+dicc_comp = {k: k+1 for k in (1, 2, 3)}
+print("cree un diccionario por comprension atraves de un for y una tupla:{}".format(dicc_comp))
+
+new_dicc = {k: 1 for k in ['a', 'b', 'c']}
+print("cree un diccionario por compresion declarando un mismo valor para todos:{}".format(new_dicc))
