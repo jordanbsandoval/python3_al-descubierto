@@ -22,6 +22,7 @@ else:
     print("ejecutando el else que posteriormente seran ejecutas todas las sentencias")
 
 # Tambien existe otro bucle como while
+# sentencia break: salir del bucle
 
 while x < y:
     print(x)
@@ -30,3 +31,11 @@ while x < y:
         break                   # Esta sentencia se utiliza para salir del ciclo
     else:
         print("x es igual que 8")
+
+# sentencia continue. Especial para crear condiciones que no queremos que se ejecuten
+
+for i in range(1, 10):
+    if i % 2 == 0:
+        continue
+    print("numeros impares {}".format(i))
+
