@@ -7,3 +7,6 @@
 -----------------------------
 ## EDITOR
 * **Alfaomega Grupo Editor, S.A**([@alfaomega](http://www.alfaomega.com.mx))
+---------------------------------------------
+## COPYRIGHT
+### COPYRIGHT OFFICE
